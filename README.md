@@ -1,4 +1,4 @@
-## Hi, I'm [Drew][website]!
+## Hi, I'm Drew!
 
 ### I'm a software engineer with experience in system-of-systems engineering and enterprise architecture.
 
