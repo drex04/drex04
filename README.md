@@ -32,7 +32,7 @@
 
 <br />
 
-[website]: https://www.drewnollsch.com
-[crater-web]: https://crater-frontend.herokuapp.com/
+[website]: http://www.drewnollsch.com
+[crater-web]: http://crater-frontend.herokuapp.com/
 [crater-git]: https://github.com/crater-fm
 [linkedin]: https://linkedin.com/in/drewnollsch
