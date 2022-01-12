@@ -31,7 +31,7 @@
 
 <br />
 
-[website]: http://www.drewnollsch.com
-[crater-web]: http://crater-frontend.herokuapp.com/
+[website]: http://about.drewnollsch.com
+[crater-web]: http://crater.drewnollsch.com
 [crater-git]: https://github.com/crater-fm
 [linkedin]: https://linkedin.com/in/drewnollsch
