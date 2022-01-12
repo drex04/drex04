@@ -1,6 +1,6 @@
 ## Hi, I'm Drew!
 
-### I'm a software engineer with a background in systems engineering, architecture, and IT strategy.
+### I'm a software engineer with a background in system architecture, systems engineering, and IT strategy.
 
 - 🎵 I'm currently working on [Crater][crater-web], a music discovery platform that allows users to explore DJ tracklists aggregated from multiple sources (e.g. internet radio stations, record labels, event promoters) and recommends playlists based on their preferences.
 - 🤝 I'm looking for collaborators! If you're interested in contributing to Crater, you can join our [Github organization][crater-git].
