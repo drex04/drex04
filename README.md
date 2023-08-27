@@ -2,8 +2,6 @@
 
 ### I'm a software engineer with a background in system architecture, systems engineering, and IT strategy.
 
-- 🎵 I'm currently working on Crater, a music discovery platform that allows users to explore DJ tracklists aggregated from multiple sources (e.g. internet radio stations, record labels, event promoters) and recommends playlists based on their preferences.
-
 ### You can connect with me through LinkedIn.
 
 ### Languages and Tools:
@@ -29,6 +27,4 @@
 
 <br />
 
-[website]: http://about.drewnollsch.com
-[crater-git]: https://github.com/crater-fm
 [linkedin]: https://linkedin.com/in/drewnollsch
